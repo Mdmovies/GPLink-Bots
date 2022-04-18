@@ -7,7 +7,7 @@
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Deploy in Railway
-<p><a href=https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMhdrzn%2FGPLink-Bot&envs=API_ID>
+<p><a href=https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FMhdrzn%2FGPLink-Bot&envs=API_IDDesc=Get+it+from+@Botfather>
  <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
       
 ## Deploy in your VPS
